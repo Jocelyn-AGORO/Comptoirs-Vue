@@ -36,6 +36,28 @@
                         </button>
                     </td>
                 </tr>
+                <tr>
+                  <td>
+                    <button>
+
+                    </button>
+                  </td>
+                  <td>
+                    <button>
+                      ←
+                    </button>
+                  </td>
+                  <td>
+                    <button>
+                      →
+                    </button>
+                  </td>
+                  <td>
+                    <button>
+
+                    </button>
+                  </td>
+                </tr>
             </table>
         </div>
     </main>
